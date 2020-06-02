@@ -1,0 +1,28 @@
+LANGUAGE	English	German
+EnabledAccessibility	Enabled Accessibility	Barrierefreiheit eingeschaltet
+DisabledAccessibility	Disabled Accessibility. Tap three times with three fingers to turn back on.	Barrierefreiheit ausgeschaltet. Zum Einschalten mit drei Fingern dreimal schnell auf den Bildschirm tippen.
+TalkBack_PleaseSuspend	Please suspend TalkBack during play.	Bitte TalkBack pausieren.
+DropdownItemIndex	Item XX of YY	Eintrag XX von YY
+DropdownItemSelected	TT selected	TT ausgewählt
+ElementDisabled	Disabled	Deaktiviert
+Element_Button	Button	Schaltfläche
+Element_Slider	Slider	Regler
+Element_Toggle	Toggle	Checkbox
+Element_TextEdit	Text Edit Field	Texteingabefeld
+Element_Dropdown	Dropdown List	Aufklappbare Liste
+Checkbox_Checked	checked	angewählt
+Checkbox_NotChecked	not checked	nicht angewählt
+		
+Mobile_General	Swipe left and right to navigate. Swipe up and down to quickly jump between groups of elements. Swipe up with two fingers to read the entire screen from the top. Double tap to activate an item.	Zum Navigieren nach links oder rechts swipen. Um schnell zwischen Gruppen hin und her zu springen, nach oben oder unten swipen. Um den Bildschirm von oben nach unten vorgelesen zu bekommen, bitte mit zwei Fingern aufwärts swipen. Zum Anwählen einer Schaltfläche mit einem Finger doppelt tippen.
+Mobile_HintButton	Double tap to select.	Zum Anwählen doppelt tippen.
+Mobile_HintToggle	Double tap to change.	Zum Ändern doppelt tippen.
+Mobile_HintTextEdit	Double tap to edit.	Zum Ändern doppelt tippen.
+Mobile_HintDropdown	Double tap to change.	Zum Ändern doppelt tippen.
+Mobile_HintSlider	Double tap to activate, then swipe up and down to change the value.	Zum Anwählen doppelt tippen, danach nach oben und unten swipen, um Einträge auszuwählen.
+		
+Desktop_General	Use the up and down arrow keys to navigate. Use Tab and Shift-Tab to quickly jump between groups of elements. Press return to activate an item.	Zum Navigieren die Pfeiltasten nutzen. Mit Tab und Umschalttaste und Tab kann zwischen Gruppen schnell hin und her gesprungen werden. Zum Anwählen einer Schaltfläche Enter drücken.
+Desktop_HintButton	Press return to select.	Zum Anwählen Enter drücken.
+Desktop_HintToggle	Press return to change.	Zum Ändern Enter drücken.
+Desktop_HintTextEdit	Press return to edit.	Zum Ändern Enter drücken.
+Desktop_HintDropdown	Press return to change.	Zum Ändern Enter drücken.
+Desktop_HintSlider	Press return to activate, then use up and down arrows to change the value.	Zum Anwählen Enter drücken, danach mit den Pfeiltasten einen Eintrag auswählen.
